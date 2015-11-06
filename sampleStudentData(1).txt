@@ -1,0 +1,27 @@
+John Smith
+
+freshman
+
+2017
+
+3.5
+
+
+
+Nancy Drew
+
+sophomore
+
+2016
+
+3.66
+
+
+
+Karen Davis
+
+junior
+
+2015
+
+4.00
